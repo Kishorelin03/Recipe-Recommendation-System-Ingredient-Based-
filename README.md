@@ -31,7 +31,7 @@
     <h2>🚀 How to Run</h2>
     <ol>
       <li><strong>Clone the Repo</strong>
-        <pre><code>git clone https://github.com/your-username/recipe-recommender.git
+        <pre><code>https://github.com/Kishorelin03/Recipe-Recommendation-System-Ingredient-Based-.git
 cd recipe-recommender</code></pre>
       </li>
       <li><strong>Install Dependencies</strong>
@@ -77,17 +77,6 @@ Top 5 Recipe Matches:
       <li>Build a web UI using Streamlit or Flask</li>
       <li>Add support for image-based recommendations (Phase 2)</li>
     </ul>
-  </div>
-
-  <div class="section">
-    <h2>👨‍💻 Authors</h2>
-    <p>Designed & implemented by <strong>Your Name</strong><br>
-    Contributions: Dataset expansion, model integration, TF-IDF pipeline, interface logic</p>
-  </div>
-
-  <div class="section">
-    <h2>📄 License</h2>
-    <p>MIT License</p>
   </div>
 
 </body>
